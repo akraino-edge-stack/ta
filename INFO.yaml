@@ -4,10 +4,10 @@ project_creation_date: '2020-06-12'
 project_category: ''
 lifecycle_state: 'Incubation'
 project_lead: &akraino_ta_ptl
-    name: ''
-    email: ''
-    id: ''
-    company: ''
+    name: 'Paul Carver'
+    email: 'pc2929@att.com'
+    id: 'pcarver'
+    company: 'AT&T'
     timezone: ''
 primary_contact: *akraino_ta_ptl
 issue_tracking:
