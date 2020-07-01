@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ac5fa776_3eadd006",
+        "filename": "INFO.yaml",
+        "patchSetId": 6
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 133
+      },
+      "writtenOn": "2020-07-01T14:07:51Z",
+      "side": 1,
+      "message": "Levente is on the committer list, so can +2. However, this is not the correct LFID. Please use \"Levovar\".",
+      "range": {
+        "startLine": 67,
+        "startChar": 11,
+        "endLine": 67,
+        "endChar": 14
+      },
+      "revId": "cd6c9d82b8eac8acab73e5292ce9f2d4b1a8d6c0",
+      "serverId": "4cada01b-0314-4fe0-84a1-f9ddc89863f9",
+      "unresolved": true
+    }
+  ]
+}
